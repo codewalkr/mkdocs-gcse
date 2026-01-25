@@ -1,0 +1,52 @@
+site_name: Computer Student 
+site_url: https://student.codewalker.co.uk
+use_directory_urls: false
+theme:
+  font:
+    text: Source Sans Pro 
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  palette:
+    primary: black
+  plugins:
+   - search
+   - glightbox
+  features:
+    - search.suggest
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - toc.integrate
+    - toc.follow
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+copyright: Copyright &copy; 2026 - Code Walker
+extra:
+  homepage: https://student.codewalker.co.uk
+extra_css:
+  - style.css
+nav:
+  - index.md
+  
+  - Getting Started:
+    - Central Processing Unit: gcse/cpu.md
+    - CPU Quiz: gcse/cpu_test.md
+   
+  - Appendix:
+    - Local TLS Certificates: appendix/linuxcmds.md
