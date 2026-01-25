@@ -44,9 +44,10 @@ extra_css:
 nav:
   - index.md
   
-  - Getting Started:
-    - Central Processing Unit: gcse/cpu.md
-    - CPU Quiz: gcse/cpu_test.md
+  - GCSE:
+    - CPU: gcse/cpu.md
+    - CPU Quiz: gcse/cpu_test_blank.md
+    - CPU Answers: gcse/cpu_test_answer.md
    
   - Appendix:
     - Local TLS Certificates: appendix/linuxcmds.md

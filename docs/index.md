@@ -1,4 +1,4 @@
-# Welcome to Student Code Walker
+# Welcome 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
