@@ -1,4 +1,4 @@
-# Take the quiz
+# CPU quiz
 
 1. Name the parts of the CPU that perform the following functions:
     1. carries out arithmetic and logical computations                  (**Arithmetic Logic Unit** (ALU))
