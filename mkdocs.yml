@@ -49,7 +49,8 @@ nav:
     - CPU Quiz: gcse/cpu_test_blank.md
     - CPU Answers: gcse/cpu_test_answer.md
     - Storage: gcse/storage.md
-    - Storage Quiz: gcse/storage_answer.md
+    - Storage Quiz: gcse/storage_blank.md
+    - Storage Answers: gcse/storage_answer.md
    
   - Appendix:
     - Local TLS Certificates: appendix/linuxcmds.md
