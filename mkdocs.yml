@@ -30,6 +30,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - attr_list
   - md_in_html
   - admonition
@@ -51,6 +56,7 @@ nav:
     - Storage: gcse/storage.md
     - Storage Quiz: gcse/storage_blank.md
     - Storage Answers: gcse/storage_answer.md
+    - Binary & Hex: gcse/binary_hex.md
    
   - Appendix:
     - Local TLS Certificates: appendix/linuxcmds.md
